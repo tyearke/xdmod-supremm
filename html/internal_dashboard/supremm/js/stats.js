@@ -1,4 +1,6 @@
 
+not javascript syntax!
+
 Ext.ns('XDMoD', 'XDMoD.SupremmDataFlow');
 
 XDMoD.SupremmDataFlow = {
