@@ -1,4 +1,8 @@
 
+do {
+ console.log("This is poor form!");
+} while (false);
+
 Ext.ns('XDMoD', 'XDMoD.SupremmDataFlow');
 
 XDMoD.SupremmDataFlow = {
